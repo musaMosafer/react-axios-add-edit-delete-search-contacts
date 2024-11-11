@@ -1,0 +1,8 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# ignore mdrill.zip files
+mdrill.zip
+
+# ignore all files in any directory named mdrill
+mdrill/
+
